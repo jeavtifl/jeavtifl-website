@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title description">
+  <title id="title">JEAVTIFL product image placeholder</title>
+  <desc id="description">The JEAVTIFL product photograph will be added before publication.</desc>
+  <rect width="1200" height="900" fill="#f4f0e8"/>
+  <rect x="36" y="36" width="1128" height="828" rx="8" fill="none" stroke="#d7d0c4" stroke-width="3" stroke-dasharray="14 14"/>
+  <g fill="#111111" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="420" font-size="54" font-weight="700" letter-spacing="4">JEAVTIFL</text>
+    <text x="600" y="486" font-size="24" fill="#706d67">PRODUCT IMAGE PLACEHOLDER</text>
+  </g>
+  <rect x="540" y="535" width="120" height="8" fill="#ed5a24"/>
+</svg>
